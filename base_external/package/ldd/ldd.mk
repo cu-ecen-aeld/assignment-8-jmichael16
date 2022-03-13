@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-# references your assignment 3 git contents
+# references assignment 7 git contents
 LDD_VERSION = 117fbf20b34fc093e5457008253a505f621f307d 
 # Note: Be sure to reference the *ssh* repository URL here (not https) to work properly
 # with ssh keys and the automated build/test system.
